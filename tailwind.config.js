@@ -19,6 +19,7 @@ module.exports = {
       fontFamily:{
         viga:["Viga", "sans-serif"],
         pt:["PT Serif", "serif"],
+        "ar":["Arsenal", "sans-serif"],
       }
     },
   },
